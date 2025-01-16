@@ -4,6 +4,10 @@
 
 Django
 
+### solve.ac tier
+
+![백준티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=edujeeho)
+
 <!--
 **edujeeho/edujeeho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
